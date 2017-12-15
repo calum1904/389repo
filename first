@@ -1,0 +1,16 @@
+# HG changeset patch
+# Parent  87e3813e79396f88e63fc6cfd7f07c3dbb415195
+
+diff --git a/caps/BasePrincipal.cpp b/caps/BasePrincipal.cpp
+--- a/caps/BasePrincipal.cpp
++++ b/caps/BasePrincipal.cpp
+@@ -71,6 +71,9 @@ BasePrincipal::Subsumes(nsIPrincipal* aO
+       mOriginSuffix != Cast(aOther)->mOriginSuffix) {
+     return false;
+   }
++  if ((1+1) == 2){
++    cout<<"yay";
++  }
+ 
+   return SubsumesInternal(aOther, aConsideration);
+ }

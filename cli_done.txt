@@ -1,0 +1,254 @@
+help
+hg clone https://hg.mozilla.org/mozilla-central/ firefox
+curl https://sh.rustup.rs -sSf | sh
+$HOME/.cargo/env
+HOME/.cargo/env
+ls
+cd firefox
+touch mozconfig
+ls
+cd mozconfig
+copy con mozconfig
+con mozconfig
+help
+ac_add_options --disable-stylo >> mozconfig
+echo ac_add_options --disable-stylo >> mozconfig
+save
+read mozconfig
+li
+ls
+cd firefox
+ls
+./mach mercurial-setup
+ls
+cd.
+cd
+ls
+mach mercurial-setup
+hgrc
+hg config -e -g
+edit .hgrc
+edig .hgrc
+edit .hgrc
+edit  .hgrc
+edit .hgrc
+-edit .hgrc
+edit .hgrc
+help
+edit .hgrc
+ls-la
+ls
+ls la
+ls-la
+la
+edit .hgrc
+ls
+mkdir 389
+ls
+cd 389
+mkdir cli
+cd cli
+pwd
+pwd > text.txt
+ls
+cd
+ln -s [389/cli/text.txt]
+ls
+ln -s 389/cli/text.txt txt.
+ls
+cat txt.
+ls
+touch 389/cli/fstab.txt
+cd 389.cli
+cd 389/cli
+ls
+con /etc/fstab 389/cli/fstab.txt
+cat /etc/fstab 389/cli/fstab.txt
+cd
+;s
+ls
+cd 389
+ls
+cd cli
+ls
+less fstab.txt
+cd/389
+cd 389
+ls
+cd cli
+ls
+grep reference fstab.txt
+grep -b reference fstab.txt
+grep
+grep --help
+cat fstab.txt 
+cd ..
+cat 389/cli/fstab.txt 
+cat /etc/fstab >389/cli/fstab.txt
+cat /etc/fstab > 389/cli/fstab.txt
+cat 389/cli/fstab.txt 
+cd 389/cli/
+grep reference fstab.txt
+grep -n "reference" fstab.txt >> out.txt
+cat .hgrc
+emacs .hgrc
+cat .hgrc
+emacs .hgrc
+./mach mercurial-setup
+cd firefox
+./mach mercurial-setup
+cd..
+cd
+emacs .hgrc
+hg tags
+cd firefox
+ls
+hg tags
+./mach build &
+cd firefox
+./mach run
+.mach build &
+//
+ls
+cd
+./mach build &
+./mach run
+cd firefox
+./mach run
+mach run
+.mach run
+./mach run
+./mach build &
+./mach run
+emacs /caps/BasePrincipal.cpp
+cd/caps
+cd caps
+ls
+cat BasePrincipal
+cat BasePrincipal.cpp
+emacs /caps/BasePrincipal.cpp
+emacs BasePrincipal.cpp
+
+//
+cd
+cd firefox
+./mach patch
+./mach build
+cd caps
+emacs BasePrincipal.cpp
+cd
+hg qnew [First Patch]
+cd firefox
+hg qnew [First Patch]
+cd patches
+cd patch
+.hg qnew ["First Patch"]
+.hg qnew firstpatch
+.hg qnew first patch
+hg qnew [First Patch]
+hg qnew first patch
+hg qnew first
+cd .hg
+cd patches
+wget creative.coventry.ac.uk/~carey/first
+ls
+cd firefox
+find . -name .hgrc
+ls
+cd testing
+ls
+find . -name .hgrc
+cd ./moxharness/test/helper_file/.hgrc
+cd ./mozharness/test/helper_file/.hgrc
+cd ./mozharness/test/helper_files/.hgrc
+cd ./mozharness/test
+ls
+cd helper_files
+ls -a
+nano .hgrc
+cd
+ls
+cd 389
+cd cli
+touch myls
+code myls
+fstab.txt
+emacs myls
+./myls
+chmod +x myls
+./myls
+pwd ./myls > out.txt
+emacs out.txt
+pwd
+./myls >> out.txt
+emacs out.txt
+touch who.txt
+date;who
+date;who > who.txt
+emac who.txt
+emacs who.txt
+cd..
+cd.
+cd/
+cd389
+cd 389
+cd//
+cd..
+ls
+cd -
+ln -s cli /cli
+ln -s cli /home/m389user19/cli
+cd-
+cd -
+cd /
+ls
+ls home
+ls m389user19
+cd m389user19
+ls
+cd home
+cd m389user19
+ls cli
+ls
+ls -l cli
+cat cli
+cd cli
+cd 389
+ls
+ln -s cli /home/m389user19/clisymlink
+cd -
+ls cli
+cd cli
+cd 389
+ln -s cli /cli
+ln -s cli home/m389user19/cli
+ln -s cli home/m389user19/ cli
+cd-
+cd -
+ls clisymlink
+cd 389
+ln -s 389/cli/ /home/m389user19/
+cd -
+ls cli
+man less
+man less > 389/cli/less.txt
+cat 389/cli/less.txt
+wget 
+wget http://politespider.com/images/mozilla_logo.jpg
+man wget
+tar 389
+tar home/m389user19
+• tar -cvf 389.tar /home/m389user19/389
+tar -cvf 389.tar /home/m389user19/389
+tar -cvzf 389.tar.gz /home/m389user19/389
+ls 389.tar
+tar -tvf 389.tar
+tar -tvf 389.tar.gz
+mkdir /hom/m389user19/389/tmp
+cd 389
+mkdir tmp
+cd-
+cd -
+tar -zxvf 389.tar.gz -C  /home/m389user19/389/tmp
+ls 389
+ls -R 389
